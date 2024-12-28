@@ -3,7 +3,13 @@
 <h1 align="center"> Hi there, I'm Dasha Kyharka <!-- <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>--></h1>
 
 <br />
-
+<h2 align="center">Languages-Tools</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,c#,scratch,python"/><br>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/><br>
+</div>
+<br/>
 <!--
 **moloshko/moloshko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
