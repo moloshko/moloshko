@@ -1,4 +1,8 @@
-## Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=header&textBg=false"/>
+
+<h1 align="center"> Hi there, I'm Dasha Kyharka <!-- <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>--></h1>
+
+<br />
 
 <!--
 **moloshko/moloshko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
